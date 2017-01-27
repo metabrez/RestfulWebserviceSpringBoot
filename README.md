@@ -1,7 +1,7 @@
 # RestfulWebserviceSpringBoot
 
 <h2>For Testing using postman<h2>
-<h3>http://localhost:8090/secur/allEmployee getAllEmployee<h3>
+<h3>http://localhost:8090/secure/allEmployee getAllEmployee<h3>
 <h3>http://localhost:8090/secure/employee/{id} GET<h3>
 <h3>http://localhost:8090/secure/employee/{id}  Delete<h3>
 <h3>http://localhost:8090/secure/employee     POST <h3>
